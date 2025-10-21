@@ -11,7 +11,7 @@ This project is a Java-based web application built to provide a centralized syst
 👨‍💻 About Us
 --------------
 
-We are a team of passionate second-year Computer Science students from the Sri Lanka Institute of Information Technology (SLIIT). This project represents our collaborative effort to apply software engineering principles to solve real-world problems.
+We are a team of passionate second-year IT students from the Sri Lanka Institute of Information Technology (SLIIT). This project represents our collaborative effort to apply software engineering principles to solve real-world problems.
 
 Our Team (Group ID: 2025-Y2-S1-MLB-WE1G2-02)2:
 
