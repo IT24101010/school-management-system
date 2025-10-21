@@ -1,5 +1,3 @@
-Of course. Here is a professional and well-structured README.md file for your GitHub project, incorporating all the details from your project documents.
-
 Web-Based School Management System
 ==================================
 
@@ -72,7 +70,7 @@ The application requires a SQL Server database named school\_db.
         
     *   Right-click the **Databases** folder and select **New Database...**.
         
-    *   Name it **school\_db** and click **OK**.
+    *   Name it **wbsms_db** and click **OK**.
         
 2.  **Run the SQL Scripts:**
     
