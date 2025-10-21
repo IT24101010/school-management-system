@@ -6,22 +6,22 @@ A comprehensive, web-based platform designed to digitize and streamline the acad
 📚 Project Overview
 -------------------
 
-This project is a Java-based web application built to provide a centralized system for managing student data, academic records, attendance, and communication between stakeholders. The primary goal is to replace manual administrative processes with an efficient, secure, and user-friendly digital solution, improving communication and data accessibility for principals, teachers, students, and parents. 1111
+This project is a Java-based web application built to provide a centralized system for managing student data, academic records, attendance, and communication between stakeholders. The primary goal is to replace manual administrative processes with an efficient, secure, and user-friendly digital solution, improving communication and data accessibility for principals, teachers, students, and parents. 
 
 👨‍💻 About Us
 --------------
 
 We are a team of passionate second-year IT students from the Sri Lanka Institute of Information Technology (SLIIT). This project represents our collaborative effort to apply software engineering principles to solve real-world problems.
 
-Our Team (Group ID: 2025-Y2-S1-MLB-WE1G2-02)2:
+Our Team (Group ID: 2025-Y2-S1-MLB-WE1G2-02):
 
+*   IT24101010 - De Silva T.H.H.D
+  
 *   IT24101243 - Punchihewa P.K.N
     
 *   IT24100910 - Ranasinghe R.G.P.D
     
 *   IT24101383 - Chandrasekara R.M.S
-    
-*   IT24101010 - De Silva T.H.H.D
     
 *   IT24101409 - Gunasekara J.D.C.
     
